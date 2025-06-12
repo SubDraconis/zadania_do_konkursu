@@ -40,9 +40,7 @@ Powodzenia w rozwiązywaniu zadań!
 
 ## łatwe
 
-Jasne, przepraszam za pomyłkę. Oto treść zadania w całości po polsku, sformatowana w stylu `README.md`. Możesz skopiować cały poniższy blok.
 
-```markdown
 # Zadanie 1: Maksymalna Liczba Gości
 
 ### Poziom trudności: Wprowadzający
@@ -78,19 +76,17 @@ Napisz program, który na podstawie czasów przyjścia i wyjścia gości obliczy
 ## Przykład
 
 **Wejście:**
-```
 5
 1 5
 8 10
 3 9
 6 7
 2 4
-```
+
 
 **Wyjście:**
-```
 3
-```
+
 
 **Wyjaśnienie przykładu:**
 
@@ -104,7 +100,6 @@ Napisz program, który na podstawie czasów przyjścia i wyjścia gości obliczy
 
 ---
 
-> ### **Wskazówka (jeśli potrzebujesz):**
->
-> Pomyśl o każdym przyjściu i wyjściu jako o osobnym "zdarzeniu". Każde przyjście zwiększa liczbę gości o 1, a każde wyjście ją zmniejsza. Co by było, gdybyś posortował wszystkie te zdarzenia (zarówno przyjścia, jak i wyjścia) chronologicznie? Jak wtedy mógłbyś śledzić liczbę obecnych osób?
-```
+**Wskazówka (jeśli potrzebujesz):**
+
+Pomyśl o każdym przyjściu i wyjściu jako o osobnym "zdarzeniu". Każde przyjście zwiększa liczbę gości o 1, a każde wyjście ją zmniejsza. Co by było, gdybyś posortował wszystkie te zdarzenia (zarówno przyjścia, jak i wyjścia) chronologicznie? Jak wtedy mógłbyś śledzić liczbę obecnych osób?
