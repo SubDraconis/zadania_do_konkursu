@@ -1,0 +1,11 @@
+from collections import Counter
+
+dl = int(input())
+glosy = [input() for _ in range(dl)]
+
+# Counter automatycznie zlicza wystąpienia każdego elementu
+wyniki = Counter(glosy)
+
+# Sortujemy i wypisujemy wyniki
+for imie in sorted(wyniki.keys()):
+    print(imie, wyniki[imie])
